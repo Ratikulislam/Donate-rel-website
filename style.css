@@ -1,0 +1,260 @@
+body {
+      font-family: 'Cabin', sans-serif;
+      font-family: 'Poppins', sans-serif;
+}
+
+.top-work {
+      background-image: url(images/background-for-donate.jpg);
+      text-align: center;
+      color: white;
+
+      height: 600px;
+      padding: 15px;
+      background-position: 50%;
+      background-repeat: no-repeat;
+      font-size: larger;
+
+}
+
+.increase-size {
+      font-size: 70px;
+}
+
+.donate-button {
+      text-decoration: none;
+      color: white;
+      background-color: rgb(236, 107, 84);
+      padding: 15px;
+      border-radius: 10px;
+}
+
+.donate-today {
+      text-align: center;
+      padding-top: 150px;
+
+}
+
+.donate-today-size {
+      font-size: 50px;
+
+}
+
+.donation-box {
+      display: flex;
+      justify-content: center;
+}
+
+.space-needed {
+      margin: 1%;
+      background-color: whitesmoke;
+      padding: 40px;
+      border-radius: 5px;
+      color: gray;
+      font-size: 45px;
+
+}
+
+#donate-button-color {
+      color: rgb(255, 61, 61);
+      border: solid salmon;
+      background-color: rgb(252, 231, 231);
+      border-radius: 5px;
+
+}
+
+.other-amount {
+      padding-top: 4%;
+      font-size: 25px;
+      color: rgb(185, 185, 185);
+}
+
+.line-added {
+      width: 64%;
+}
+
+.padding-button {
+      padding-top: 2%;
+}
+
+#second-donate {
+      text-decoration: none;
+      color: white;
+      background-color: rgb(233, 65, 35);
+      padding: 15px;
+      border-radius: 10px;
+
+}
+
+.second-donate {
+      text-decoration: none;
+      font-size: 25px;
+
+}
+
+
+.donation-plan {
+      text-align: center;
+      padding-top: 150px;
+      font-size: 40px;
+
+}
+
+.donatin-p-tag {
+      text-align: center;
+}
+
+.icons-one {
+      background-color: rgb(223, 253, 253);
+      width: 23%;
+      margin: 1%;
+      padding-top: 32px;
+      padding-left: 23px;
+      padding-bottom: 22px;
+      text-align: justify;
+}
+
+.middle-one {
+      display: flex;
+      padding-left: 395px;
+}
+
+.shelter-one {
+      background-color: rgb(255, 228, 255);
+      width: 23%;
+      margin: 1%;
+      padding-top: 32px;
+      padding-left: 23px;
+      padding-bottom: 22px;
+      text-align: justify;
+}
+
+.display-flex {
+      padding-right: 100px;
+}
+
+.education-one {
+      background-color: rgb(252, 234, 207);
+      width: 23%;
+      margin: 1%;
+      padding-top: 32px;
+      padding-left: 23px;
+      padding-bottom: 22px;
+      text-align: justify;
+}
+
+.last-up-part {
+      text-align: center;
+      padding-top: 900px;
+      margin-top: -30%;
+      margin-left: 9%;
+
+}
+
+.get-update-size {
+      font-size: 60px;
+}
+
+.turn-right-all {
+      margin-left: 10%;
+}
+
+.floatRight {
+      float: right;
+      padding-top: 150px;
+      height: 250px;
+      width: 85%;
+
+}
+
+.floatRight-2 {
+      float: right;
+      height: 250px;
+      margin-top: 20%;
+
+
+}
+
+.top-right {
+      float: right;
+      margin-right: 20%;
+
+
+}
+
+.heading {
+      font-size: 50px;
+      text-align: center;
+      padding: left 30px;
+      margin-left: 15%;
+      padding-top: 200px;
+
+}
+
+.text-in-left {
+      margin-right: 20%;
+}
+
+.paragraph-tag {
+      font-size: small;
+}
+
+.paragraph-tag {
+      text-align: justify;
+      margin-left: 15.5%;
+}
+
+
+
+
+
+.email-box {
+      padding: 20px;
+      background-color: rgb(216, 210, 210);
+      color: white;
+      margin: -15px;
+      border: 0;
+      border-bottom-left-radius: 5px;
+      border-top-left-radius: 5px;
+}
+
+.button-big {
+      padding: 20px;
+      background-color: rgb(255, 99, 71);
+      color: white;
+      margin: -15px;
+      border: 0;
+      border-bottom-right-radius: 5px;
+      border-top-right-radius: 5px;
+
+}
+
+.email-box {
+      padding: 20px;
+      margin: 10px;
+
+}
+
+.button-box {
+      padding: 20px;
+      margin: 10px;
+
+}
+
+.input-email-subscribe {
+      background-color: rgb(240, 228, 206);
+
+      padding: 70px 80px;
+      width: 60%;
+      text-align: center;
+      margin-bottom: 10px;
+      margin-left: 20%;
+}
+
+.footer {
+      background-color: black;
+      color: white;
+      width: 100%;
+      position: absolute;
+      margin-top: 10%;
+      padding: 30px;
+}
